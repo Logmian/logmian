@@ -2,7 +2,7 @@
 本页面内帐号密码和一键配置的链接皆为测试帐号，有效期一小时，随时更新。用测试帐号之后可以访问我们的[主页](https://www.logmian.com)登录并获得正式帐号。
 
 ### iPhone/iPad
-iOS支持一键配置，请点击[link](http://www.google.com)  
+iOS支持一键配置，请点击[link](https://github.com/Logmian/logmian/raw/master/images/ios.mobileconfig)  
 [安装指南](https://github.com/Logmian/logmian/wiki/iPhone-iPad%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
 
 
