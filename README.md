@@ -1,6 +1,6 @@
 
 ## 如何访问
-请通过此[链接](https://xi4xdtzctj.execute-api.us-west-2.amazonaws.com/Prod/)访问我们的主页，链接随时更新，如果您发现无法访问请提交 [issue](https://github.com/Logmian/logmian/issues)
+请通过此[链接](https://xi4xdtzctj.execute-api.us-west-2.amazonaws.com/Prod/)访问我们的网站主页，链接随时更新，如果您发现无法访问请提交 [issue](https://github.com/Logmian/logmian/issues)我们会第一时间响应。
 
 
 ### 为什么要通过Github跳转，为什么不直接访问Logmian主页
